@@ -1,5 +1,5 @@
 # RandNumGenerator
-To generate Random numbers
+To generate Random numbers  
 生成随机数的小工具
 ## V1.0
 未完成功能——不知如何找重复
