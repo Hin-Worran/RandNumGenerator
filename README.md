@@ -1,6 +1,7 @@
 # RandNumGenerator
 To generate Random numbers  
 生成随机数的小工具
+# 更新日志
 ## V1.0
 未完成功能——不知如何找重复
 ## V2.0（2020/10/5 23:20）
